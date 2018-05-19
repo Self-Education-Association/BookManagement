@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2005
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booktest", "booktest\booktest.csproj", "{3337D9F0-4A39-4AB1-AC60-A3A9E90B2A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMng", "BookMng\BookMng.csproj", "{FD506580-4AE6-44D3-A5DB-6BA9093C57DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3337D9F0-4A39-4AB1-AC60-A3A9E90B2A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3337D9F0-4A39-4AB1-AC60-A3A9E90B2A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3337D9F0-4A39-4AB1-AC60-A3A9E90B2A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD506580-4AE6-44D3-A5DB-6BA9093C57DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD506580-4AE6-44D3-A5DB-6BA9093C57DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD506580-4AE6-44D3-A5DB-6BA9093C57DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD506580-4AE6-44D3-A5DB-6BA9093C57DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
